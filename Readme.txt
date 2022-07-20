@@ -12,4 +12,4 @@ config.txt file should be like below - ServerIP- the IP of the machine that runs
 ServerIP
 ServerPort
 
-all directories must have config.txt
+all directories must have the same config.txt
